@@ -1,0 +1,15 @@
+/home/wambui/Projects/C# projects/Simple-C#-programs/CarApp/obj/Debug/net6.0/CarApp.csproj.AssemblyReference.cache
+/home/wambui/Projects/C# projects/Simple-C#-programs/CarApp/obj/Debug/net6.0/CarApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/wambui/Projects/C# projects/Simple-C#-programs/CarApp/obj/Debug/net6.0/CarApp.AssemblyInfoInputs.cache
+/home/wambui/Projects/C# projects/Simple-C#-programs/CarApp/obj/Debug/net6.0/CarApp.AssemblyInfo.cs
+/home/wambui/Projects/C# projects/Simple-C#-programs/CarApp/obj/Debug/net6.0/CarApp.csproj.CoreCompileInputs.cache
+/home/wambui/Projects/C# projects/Simple-C#-programs/CarApp/bin/Debug/net6.0/CarApp
+/home/wambui/Projects/C# projects/Simple-C#-programs/CarApp/bin/Debug/net6.0/CarApp.deps.json
+/home/wambui/Projects/C# projects/Simple-C#-programs/CarApp/bin/Debug/net6.0/CarApp.runtimeconfig.json
+/home/wambui/Projects/C# projects/Simple-C#-programs/CarApp/bin/Debug/net6.0/CarApp.dll
+/home/wambui/Projects/C# projects/Simple-C#-programs/CarApp/bin/Debug/net6.0/CarApp.pdb
+/home/wambui/Projects/C# projects/Simple-C#-programs/CarApp/obj/Debug/net6.0/CarApp.dll
+/home/wambui/Projects/C# projects/Simple-C#-programs/CarApp/obj/Debug/net6.0/refint/CarApp.dll
+/home/wambui/Projects/C# projects/Simple-C#-programs/CarApp/obj/Debug/net6.0/CarApp.pdb
+/home/wambui/Projects/C# projects/Simple-C#-programs/CarApp/obj/Debug/net6.0/CarApp.genruntimeconfig.cache
+/home/wambui/Projects/C# projects/Simple-C#-programs/CarApp/obj/Debug/net6.0/ref/CarApp.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PWYJjJ/0SbtglTLMJVPylPl667vTG7qC1/Bn65iSW/EHIFTJfzG8a18Hgy5MvRaFcSXo+HFOWgGJBcDap+Aeyg==",
+  "success": true,
+  "projectFilePath": "/home/wambui/Projects/C# projects/Simple-C#-programs/CarApp/CarApp.csproj",
+  "expectedPackageFiles": [
+    "/home/wambui/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/wambui/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/wambui/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
